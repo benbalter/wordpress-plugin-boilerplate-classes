@@ -5,7 +5,7 @@
  * @author Benjamin J. Balter <ben@balter.com>
  * @package Plugin_Boilerplate
  */
-class Plugin_Boilerplate_Donate_v_1 {
+class Plugin_Boilerplate_Donate_v_2 {
 
 	private $parent;
 	public $activation_option = 'pb_activation';

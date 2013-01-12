@@ -5,7 +5,7 @@
  * @package Plugin_Boilerplate
  * @subpackage Plugin_Boilerplate_Enqueue
  */
-class Plugin_Boilerplate_Enqueue_v_1 {
+class Plugin_Boilerplate_Enqueue_v_2 {
 
 	private $parent;
 	public $js_path = '/js/'; //path to javascript directory relative to plugin base

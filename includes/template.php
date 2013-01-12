@@ -7,7 +7,7 @@
  * @subpackage Plugin_Boilerplate_Template
  */
 
-class Plugin_Boilerplate_Template_v_1 {
+class Plugin_Boilerplate_Template_v_2 {
 
 	private $parent;
 	public $path      = '/templates/'; //path to templates folder relative to plugin root

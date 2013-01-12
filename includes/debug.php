@@ -7,7 +7,7 @@
  * @subpackage Plugin_Boilerplate_Debug
  */
 
-class Plugin_Boilerplate_Debug_v_1 {
+class Plugin_Boilerplate_Debug_v_2 {
 
 	public $history = array();
 	private $parent;

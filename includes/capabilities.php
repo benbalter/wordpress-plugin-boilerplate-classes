@@ -5,7 +5,7 @@
  * @package Plugin_Boilerplate
  * @subpackage Plugin_Boilerplate_Capabilities
  */
-class Plugin_Boilerplate_Capabilities_v_1 {
+class Plugin_Boilerplate_Capabilities_v_2 {
 
 	private $parent;
 

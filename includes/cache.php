@@ -5,7 +5,7 @@
  * @package Plugin_Boilerplate
  * @subpackage Plugin_Boilerplate_Cache
  */
-class Plugin_Boilerplate_Cache_v_1 {
+class Plugin_Boilerplate_Cache_v_2 {
 
 	public $ttl = 3600;
 	private $parent;

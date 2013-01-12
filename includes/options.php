@@ -5,7 +5,7 @@
  * @package Plugin_Boilerplate
  * @subpackage Plugin_Boilerplate_Options
  */
-class Plugin_Boilerplate_Options_v_1 {
+class Plugin_Boilerplate_Options_v_2 {
 
 	//default scope for options when called directly,
 	//choices: site, user, or global (user option across sites)

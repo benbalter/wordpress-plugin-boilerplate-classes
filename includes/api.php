@@ -7,7 +7,7 @@
  * @subpackage Plugin_Boilerplate_Api
  */
 
-class Plugin_Boilerplate_Api_v_1 {
+class Plugin_Boilerplate_Api_v_2 {
 
 	private $parent;
 	public $history = array();

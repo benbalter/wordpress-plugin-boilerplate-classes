@@ -208,7 +208,7 @@ if ( !class_exists( 'Plugin_Boilerplate_v_2' ) ):
 		$class->object_name = str_replace( ' ', '_', $name );
 
 		//base, either Plugin class or Plugin_Boilerplate
-		$class->native = ( dirname( $file ) == dirname( __FILE__ ) . '/boilerplate-classes' );
+		$class->native = ( dirname( $file ) == dirname( __FILE__ ) . '/includes' );
 		$class->base = ( $class->native ) ? 'Plugin_Boilerplate' : get_class( $this );
 		$class->class = $class->base . '_' . $class->name;
 
@@ -232,6 +232,5 @@ if ( !class_exists( 'Plugin_Boilerplate_v_2' ) ):
 
 
 }
-
 
 endif;

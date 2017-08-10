@@ -47,7 +47,7 @@ if ( !class_exists( 'Plugin_Boilerplate_v_2' ) ):
 	function __construct( &$child ) {
 
 		//don't let this fire twice
-		if ( get_class( $this ) == 'Plugin_Boilerplate_v_' + $this->version )
+		if ( get_class( $this ) == 'Plugin_Boilerplate_v_' . $this->version )
 			return;
 
 		//verify minimum WP version, and shutdown if insufficient
